@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+python-telegram-bot
+aiosqlite
+httpx
+aiosqlite
+python-dotenv

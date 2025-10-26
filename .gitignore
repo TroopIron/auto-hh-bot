@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Envs
+.venv/
+.env
+
+# DB и токены
+*.db
+token.json
+tg_users.db
+
+# IDE
+.idea/
+.env
